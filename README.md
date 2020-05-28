@@ -15,7 +15,7 @@
 [PHP code sample for reference](https://build.at-labs.io/docs/ussd%2Foverview)
 
 ```
-		-— ussd —> 					-—POST req—> 
+		-— ussd —> 				    -—POST req—> 
 Phone 				 AT API Cloud	 			    Our API
 		<-— menu -—				    <-— text -—
 ````
