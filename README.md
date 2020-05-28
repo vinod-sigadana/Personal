@@ -1,3 +1,5 @@
+[Sample JAVA App](https://github.com/AfricasTalkingLtd/africastalking-java)
+
 # **Authentication:**
 1. Using username and API Key
     - API Key can be generated in AT dashboard.
